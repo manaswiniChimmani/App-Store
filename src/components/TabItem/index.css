@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.li-container {
+  padding-right: 4px;
+  font-family: 'Bree Serif';
+  background-color: transparent;
+}
+
+.btn {
+  color: #9aa5b1;
+  font-weight: 500;
+  font-size: 16px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.active-btn {
+  border-bottom: 2px solid #0b69ff;
+  color: #3e4c59;
+}
